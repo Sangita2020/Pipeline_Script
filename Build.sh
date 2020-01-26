@@ -1,1 +1,1 @@
-echo "Building : $(date)";
+echo "Building the Project : $(date)"
